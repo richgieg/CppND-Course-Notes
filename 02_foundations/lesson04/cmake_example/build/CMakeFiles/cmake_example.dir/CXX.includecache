@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/increment_and_sum.cpp
+vect_add_one.h
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/vect_add_one.h
+
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/increment_and_sum.h
+vector
+-
+
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/main.cpp
+iostream
+-
+vector
+-
+increment_and_sum.h
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/increment_and_sum.h
+
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/vect_add_one.cpp
+vect_add_one.h
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/vect_add_one.h
+
+/home/richard/Documents/udacity_cpp/02_foundations/lesson04/cmake_example/src/vect_add_one.h
+vector
+-
+
