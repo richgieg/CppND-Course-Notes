@@ -1,1 +1,1 @@
-# Udacity C++ Nanodegree course notes
+# Udacity C++ Nanodegree Course Notes
